@@ -1,0 +1,14 @@
+h1{
+    color:red;
+    font-style: italic;
+}
+body{
+    background: #e0e3e3;
+}
+a{
+    text-decoration: none;
+}
+a:hover
+{
+    font-weight: bold;
+}
